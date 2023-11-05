@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/I_SHOP_1/static/css/main.df4c8a11.css",
+    "main.js": "/I_SHOP_1/static/js/main.cf470a55.js",
+    "static/media/home-comfort-living-room-with-sofa-and-interior-details-homely-atmosphere-and-comfort-concept_169016-4419.jpg": "/I_SHOP_1/static/media/home-comfort-living-room-with-sofa-and-interior-details-homely-atmosphere-and-comfort-concept_169016-4419.741beedbbe59a3f072d7.jpg",
+    "index.html": "/I_SHOP_1/index.html",
+    "main.df4c8a11.css.map": "/I_SHOP_1/static/css/main.df4c8a11.css.map",
+    "main.cf470a55.js.map": "/I_SHOP_1/static/js/main.cf470a55.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.df4c8a11.css",
+    "static/js/main.cf470a55.js"
+  ]
+}
